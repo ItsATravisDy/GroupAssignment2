@@ -31,6 +31,7 @@
 					<li data-role = "button"><a href = "#goldmembership" data-rel = "dialog">Gold Membership</a></li>
 					<li data-role = "button"><a href = "#platinummembership" data-rel = "dialog">Platinum Membership</a></li>
 					<li data-role = "button"><a href = "#diamondmembership" data-rel = "dialog">Diamond Membership</a></li>
+				</ul>
 				<script type="text/javascript">
 					$(document).ready(function () {
 						$('.slideout-menu-toggle').on('click', function(event){
